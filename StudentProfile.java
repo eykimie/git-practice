@@ -8,6 +8,7 @@ public class StudentProfile {
         System.out.println("Programe: Bachelor of COMPUTER SCIENCE (CLOUD COMPUTERITY SECURITY) WITH HONOURS");
         System.out.println("Session: 2026/2027");
         System.out.println("Semester: Semester 1");
+        System.out.println("Favorite Language: Java");
     }
     
 }
